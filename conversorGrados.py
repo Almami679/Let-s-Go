@@ -1,0 +1,7 @@
+print('Bienvenido al conversor mas cutre que existe de ºF a ºC')
+x = float(input('que valor de grados Fahrenheit quieres convertir?'))
+y = float((x-32)*5/9)
+x=str(x)
+y=str(y)
+print(x+' ºF equivalen a '+y+' ºC')
+print ('espero ser de ayuda, CHAU')
